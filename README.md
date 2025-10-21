@@ -16,9 +16,9 @@ This approach is commonly used to highlight **public sentiment trends**, making 
 
 ---
 
-## 📈 Sample Output
+## 📈 Output
 
-> *(You can include a screenshot here later)*
+
 
 ![Sample Output](images/newplot2.png)
 
