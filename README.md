@@ -20,7 +20,7 @@ This approach is commonly used to highlight **public sentiment trends**, making 
 
 > *(You can include a screenshot here later)*
 
-![Sample Output](images/gss-diverging-chart.png)
+![Sample Output](images/newplot2.png)
 
 ---
 
